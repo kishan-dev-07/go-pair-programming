@@ -1,3 +1,5 @@
+//Write a Go program that accepts user input for three numbers and determines the
+//largest using conditional statements.
 package main
 
 import "fmt"
