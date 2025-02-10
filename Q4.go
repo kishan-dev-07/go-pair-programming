@@ -1,3 +1,5 @@
+//Write a Go program to calculate and print the sum of all even numbers from 1 to N
+using a loop.
 package main
 
 import "fmt"
